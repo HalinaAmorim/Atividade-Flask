@@ -86,5 +86,5 @@ Siga os passos abaixo para executar a aplicação localmente:
 
 7.  Abra seu navegador e acesse `http://127.0.0.1:5000` ou `http://localhost:5000`.
 
-## 👨‍💻 Saul Alves
+## 👨‍💻 Halina Amorim
 
